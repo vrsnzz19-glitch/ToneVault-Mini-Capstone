@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"entries":[{"timestamp":"2026-10-07T03:25:25.960347300+00:00","input_summary":"","output_summary":"Buddy model required by subagent 'buddy_refactor_hunter' (model_type: buddy) is not set up. Go to Default model settings and configure Buddy model.","success":false,"failure_category":"unknown","failure_summary":"Workflow failed. Buddy model required by subagent 'buddy_refactor_hunter' (model_type: buddy) is not set up. Go to Default model settings and configure Buddy model."}]}
+=======
+{"entries":[{"timestamp":"2026-10-05T12:34:20.491346800+00:00","input_summary":"","output_summary":"Buddy model required by subagent 'buddy_refactor_hunter' (model_type: buddy) is not set up. Go to Default model settings and configure Buddy model.","success":false,"failure_category":"unknown","failure_summary":"Workflow failed. Buddy model required by subagent 'buddy_refactor_hunter' (model_type: buddy) is not set up. Go to Default model settings and configure Buddy model."}]}
+>>>>>>> f67d674634003399b6e70bff09c1c692d6c154d9
